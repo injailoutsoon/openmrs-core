@@ -817,7 +817,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -836,7 +836,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 								<pluginExecution>
@@ -857,7 +857,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
@@ -1373,7 +1373,7 @@
 		<springVersion>6.2.12</springVersion>
 		<hibernateVersion>6.6.23.Final</hibernateVersion>
 		<!-- hibernateSearchVersion needs to be adjusted if hibernateVersion changes -->
-		<hibernateSearchVersion>7.1.2.Final</hibernateSearchVersion>
+		<hibernateSearchVersion>7.2.5.Final</hibernateSearchVersion>
 		<luceneVersion>10.3.2</luceneVersion>
 		<!-- ininispanVersion needs to be adjusted if hibernateVersion changes -->
 		<infinispanVersion>15.2.2.Final</infinispanVersion>
@@ -1388,7 +1388,7 @@
 		<owaspCsrfGuardVersion>4.5.0-jakarta</owaspCsrfGuardVersion>
 		<graalJsVersion>25.0.2</graalJsVersion>
 
-		<customArgLineForTesting />
+		<customArgLineForTesting/>
 
 		<sonar.host.url>https://sonar.openmrs.org</sonar.host.url>		
 		<sonar.issuesReport.html.enable>true</sonar.issuesReport.html.enable>
